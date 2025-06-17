@@ -1,2 +1,2 @@
 # notebooks
-A repository of Jupyter Notebooks exploring Machine Learning with Python.
+A repository of Jupyter Notebooks exploring ML with Python.
